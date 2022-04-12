@@ -22,7 +22,7 @@ require (
 	github.com/cilium/ebpf v0.3.0
 	github.com/cilium/ipam v0.0.0-20201020084809-76717fcdb3a2
 	github.com/cilium/proxy v0.0.0-20201222161048-8bceb17eb027
-	github.com/containernetworking/cni v0.7.1
+	github.com/containernetworking/cni v0.8.1
 	github.com/containernetworking/plugins v0.8.2
 	github.com/davecgh/go-spew v1.1.1
 	github.com/docker/distribution v2.7.1+incompatible // indirect
